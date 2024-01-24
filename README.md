@@ -1,1 +1,1 @@
-## This is readme file for the projet. and after i complete this project i will make this markdown fully described with detailed explanation
+## This is readme file for the project. and after i complete this project i will make this markdown fully described with detailed explanation
