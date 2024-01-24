@@ -128,8 +128,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-notebook/1 . EDA STUDENT PERFORMANCE .ipynb
-notebook/2. MODEL TRAINING.ipynb
+notebook/.notebook
 
 # Spyder project settings
 .spyderproject
