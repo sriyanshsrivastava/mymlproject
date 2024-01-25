@@ -128,7 +128,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-notebook/.notebook
+notebook/notebook
 
 # Spyder project settings
 .spyderproject
